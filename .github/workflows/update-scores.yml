@@ -1,0 +1,30 @@
+name: Update World Cup scores
+
+# 每天自动抓取比分并更新 scores.json
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 每 6 小时跑一次（UTC）；改成 '0 3 * * *' 即每天一次
+  workflow_dispatch: {}      # 也可在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch and write scores.json
+        env:
+          FOOTBALL_API_TOKEN: ${{ secrets.FOOTBALL_API_TOKEN }}
+        run: node scripts/update-scores.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "scores-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add scores.json
+          git diff --staged --quiet || git commit -m "chore: update scores ($(date -u))"
+          git push

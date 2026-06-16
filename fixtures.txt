@@ -1,0 +1,87 @@
+场次编号对照（组别字母 + 该组第几场 1~6）
+左边球队记 a，右边球队记 b。
+
+A 组
+  A1  墨西哥 MEX  vs  南非 RSA      06.11
+  A2  韩国 KOR    vs  捷克 CZE      06.11
+  A3  墨西哥 MEX  vs  韩国 KOR      06.18
+  A4  捷克 CZE    vs  南非 RSA      06.18
+  A5  墨西哥 MEX  vs  捷克 CZE      06.24
+  A6  南非 RSA    vs  韩国 KOR      06.24
+B 组
+  B1  加拿大 CAN  vs  波黑 BIH      06.12
+  B2  卡塔尔 QAT  vs  瑞士 SUI      06.12
+  B3  加拿大 CAN  vs  卡塔尔 QAT    06.18
+  B4  瑞士 SUI    vs  波黑 BIH      06.18
+  B5  加拿大 CAN  vs  瑞士 SUI      06.24
+  B6  波黑 BIH    vs  卡塔尔 QAT    06.24
+C 组
+  C1  巴西 BRA    vs  摩洛哥 MAR    06.13
+  C2  海地 HAI    vs  苏格兰 SCO    06.13
+  C3  巴西 BRA    vs  海地 HAI      06.19
+  C4  苏格兰 SCO  vs  摩洛哥 MAR    06.19
+  C5  巴西 BRA    vs  苏格兰 SCO    06.25
+  C6  摩洛哥 MAR  vs  海地 HAI      06.25
+D 组
+  D1  美国 USA    vs  巴拉圭 PAR    06.12
+  D2  澳大利亚 AUS vs  土耳其 TUR    06.13
+  D3  美国 USA    vs  澳大利亚 AUS  06.19
+  D4  土耳其 TUR  vs  巴拉圭 PAR    06.19
+  D5  美国 USA    vs  土耳其 TUR    06.25
+  D6  巴拉圭 PAR  vs  澳大利亚 AUS  06.25
+E 组
+  E1  德国 GER    vs  厄瓜多尔 ECU  06.14
+  E2  科特迪瓦 CIV vs  库拉索 CUW    06.14
+  E3  德国 GER    vs  科特迪瓦 CIV  06.20
+  E4  库拉索 CUW  vs  厄瓜多尔 ECU  06.20
+  E5  德国 GER    vs  库拉索 CUW    06.25
+  E6  厄瓜多尔 ECU vs  科特迪瓦 CIV  06.25
+F 组
+  F1  荷兰 NED    vs  日本 JPN      06.14
+  F2  突尼斯 TUN  vs  瑞典 SWE      06.14
+  F3  荷兰 NED    vs  突尼斯 TUN    06.20
+  F4  瑞典 SWE    vs  日本 JPN      06.20
+  F5  荷兰 NED    vs  瑞典 SWE      06.25
+  F6  日本 JPN    vs  突尼斯 TUN    06.25
+G 组
+  G1  比利时 BEL  vs  伊朗 IRN      06.15
+  G2  埃及 EGY    vs  新西兰 NZL    06.15
+  G3  比利时 BEL  vs  埃及 EGY      06.21
+  G4  新西兰 NZL  vs  伊朗 IRN      06.21
+  G5  比利时 BEL  vs  新西兰 NZL    06.26
+  G6  伊朗 IRN    vs  埃及 EGY      06.26
+H 组
+  H1  西班牙 ESP  vs  沙特 KSA      06.15
+  H2  佛得角 CPV  vs  乌拉圭 URU    06.15
+  H3  西班牙 ESP  vs  佛得角 CPV    06.21
+  H4  乌拉圭 URU  vs  沙特 KSA      06.21
+  H5  西班牙 ESP  vs  乌拉圭 URU    06.26
+  H6  沙特 KSA    vs  佛得角 CPV    06.26
+I 组
+  I1  法国 FRA    vs  塞内加尔 SEN  06.16
+  I2  挪威 NOR    vs  伊拉克 IRQ    06.16
+  I3  法国 FRA    vs  伊拉克 IRQ    06.21
+  I4  塞内加尔 SEN vs  挪威 NOR      06.21
+  I5  法国 FRA    vs  挪威 NOR      06.26
+  I6  塞内加尔 SEN vs  伊拉克 IRQ    06.26
+J 组
+  J1  阿根廷 ARG  vs  阿尔及利亚 ALG 06.16
+  J2  奥地利 AUT  vs  约旦 JOR      06.16
+  J3  阿根廷 ARG  vs  奥地利 AUT    06.22
+  J4  约旦 JOR    vs  阿尔及利亚 ALG 06.22
+  J5  阿根廷 ARG  vs  约旦 JOR      06.27
+  J6  阿尔及利亚 ALG vs 奥地利 AUT   06.27
+K 组
+  K1  葡萄牙 POR  vs  刚果金 COD    06.17
+  K2  乌兹别克斯坦 UZB vs 哥伦比亚 COL 06.17
+  K3  葡萄牙 POR  vs  乌兹别克斯坦 UZB 06.23
+  K4  哥伦比亚 COL vs  刚果金 COD    06.23
+  K5  葡萄牙 POR  vs  哥伦比亚 COL  06.27
+  K6  刚果金 COD  vs  乌兹别克斯坦 UZB 06.27
+L 组
+  L1  英格兰 ENG  vs  克罗地亚 CRO  06.17
+  L2  加纳 GHA    vs  巴拿马 PAN    06.17
+  L3  英格兰 ENG  vs  加纳 GHA      06.23
+  L4  巴拿马 PAN  vs  克罗地亚 CRO  06.23
+  L5  英格兰 ENG  vs  巴拿马 PAN    06.27
+  L6  克罗地亚 CRO vs  加纳 GHA      06.27
